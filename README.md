@@ -14,7 +14,7 @@
   <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width="250px">
 </picture>
 
-- :school: I am a graduate in `Computer Systems Engineer` from [Instituto Tecnológico de Oaxaca](https://www.oaxaca.tecnm.mx/).  
+- :school: I am a student in `Computer Systems Engineer` from [Instituto Tecnológico de Oaxaca](https://www.oaxaca.tecnm.mx/).  
 - :technologist: Passionate about creating software solutions for different kinds of `problems`.  
 - :computer: Interested in `Web Development`, `APIs`, `Databases`, and `Cloud technologies`.  
 - :student: Currently learning and improving in `Software Engineering`, `Backend Development (Laravel, Node.js)` and `Frontend Development (Angular, React)`.  
